@@ -1,0 +1,1 @@
+web gunicorn DjangoStoreApi.wsgi:application --log-file -
