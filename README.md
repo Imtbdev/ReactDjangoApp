@@ -1,4 +1,4 @@
-<h3 align="center">DjangoReact project</h3>
+<h3 align="center">Django Rest API app</h3>
 
 В настоящее время я изучаю Django, DRF, и Fast API. <br/>
 В этом проекте реализованы следующие фнукции: <br/>
