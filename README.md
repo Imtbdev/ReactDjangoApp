@@ -1,7 +1,8 @@
 <h3 align="center">Django Rest API app</h3>
 
 В настоящее время я изучаю Django, DRF, и Fast API. <br/>
-В этом проекте реализованы следующие фнукции: <br/>
+<br/>
+В этом проекте реализованы следующие фнукции:
 - Local cahicng <br/>
 - JWT authentication/authorization <br/>
 - Регистрация пользователей <br/>
@@ -9,7 +10,7 @@
 - Модель данных для отображения товаров и регистрации пользователей <br/>
 - Сериализаторы данных моделей<br/>
 - Обработка статических файлов при помощи Whitenoise <br/>
-<h3>Frontend часть проекта (написана не мной) </h3>
+<h3 align="left">Frontend часть проекта (написана не мной) </h3>
 https://akzshop.netlify.app/ 
 <p align="left">
 </p>
